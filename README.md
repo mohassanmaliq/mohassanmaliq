@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hassan
 
-<!--
-**mohassanmaliq/mohassanmaliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer and Computer Games Development student from Pakistan.
 
-Here are some ideas to get you started:
+## Skills
+HTML, CSS, JavaScript, Tailwind, Bootstrap, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Trimify](https://github.com/mohassanmaliq/Trimify): link shortener
+- [LuckSpinner](https://github.com/mohassanmaliq/LuckSpinner): spinner app built with TypeScript
+- [CppFundamental](https://github.com/mohassanmaliq/CppFundamental): C++ practice
+- [UnityMenuDesign](https://github.com/mohassanmaliq/UnityMenuDesign): Unity menu UI
+
+## Contact
+mo.hassanmaliq@gmail.com
