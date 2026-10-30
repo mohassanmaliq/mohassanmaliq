@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Front-end%20developer%20and%20Computer%20Games%20Development%20student%20from%20Pakistan.%20I%20build%20websites%20with%20HTML%2C%20CSS%20and%20JavaScript%2C%20and%20I'm%20learning%20C%2B%2B%20and%20Unity%20on%20the%20side." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+<h3 aling="center">🚀 About Me</h3>
 
 Front-End Developer &amp; CS / Game Development student from Pakistan 🇵🇰. Passionate about building responsive web experiences with HTML, CSS, and JavaScript, while diving into C++ and Unity game development.
 
