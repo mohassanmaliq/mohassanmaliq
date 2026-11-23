@@ -10,7 +10,7 @@
 
 <h3 aling="center"> About Me</h3>
 
-Front-End Developer &amp; CS / Game Development student from Pakistan 🇵🇰. Passionate about building responsive web experiences with HTML, CSS, and JavaScript, while diving into C++ and Unity game development.
+Front-End Developer &amp; CS / Game Development student from Pakistan . Passionate about building responsive web experiences with HTML, CSS, and JavaScript, while diving into C++ and Unity game development.
 
 🔭 &nbsp;I'm currently working on **Web development projects (like Trimify) and experimenting with 2D/3D game mechanics in Unity.**  
 🌱 &nbsp;I'm currently learning **C++ Object-Oriented Programming, Unity game engine architecture, and TypeScript.**  
